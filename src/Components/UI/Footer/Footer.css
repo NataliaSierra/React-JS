@@ -1,0 +1,11 @@
+
+
+
+a{
+    margin-left: 1rem;
+    cursor: pointer;
+}
+
+a:hover{
+    color:  #3dabc7;
+}
